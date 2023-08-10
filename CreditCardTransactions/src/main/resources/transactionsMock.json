@@ -1,0 +1,185 @@
+
+  [
+    {
+    "id": 1,
+    "amount": 100.0,
+    "merchant": "Amazon",
+    "status": "approved",
+    "date": "2023-08-08T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "amount": 50.0,
+    "merchant": "Walmart",
+    "status": "refused",
+    "date": "2023-08-08T11:15:00Z"
+  },
+  {
+    "id": 3,
+    "amount": 200.0,
+    "merchant": "Best Buy",
+    "status": "approved",
+    "date": "2023-08-08T12:30:00Z"
+  },
+  {
+    "id": 4,
+    "amount": 75.0,
+    "merchant": "Target",
+    "status": "refused",
+    "date": "2023-08-08T13:45:00Z"
+  },
+  {
+    "id": 5,
+    "amount": 30.0,
+    "merchant": "Apple Store",
+    "status": "approved",
+    "date": "2023-08-08T14:00:00Z"
+  },
+  {
+    "id": 6,
+    "amount": 150.0,
+    "merchant": "Home Depot",
+    "status": "approved",
+    "date": "2023-08-08T15:30:00Z"
+  },
+  {
+    "id": 7,
+    "amount": 25.0,
+    "merchant": "Starbucks",
+    "status": "approved",
+    "date": "2023-08-08T16:45:00Z"
+  },
+  {
+    "id": 8,
+    "amount": 60.0,
+    "merchant": "McDonald's",
+    "status": "approved",
+    "date": "2023-08-08T17:00:00Z"
+  },
+  {
+    "id": 9,
+    "amount": 40.0,
+    "merchant": "Gas Station",
+    "status": "refused",
+    "date": "2023-08-08T18:15:00Z"
+  },
+  {
+    "id": 10,
+    "amount": 300.0,
+    "merchant": "Furniture Store",
+    "status": "approved",
+    "date": "2023-08-08T19:30:00Z"
+  },
+  {
+    "id": 11,
+    "amount": 80.0,
+    "merchant": "Grocery Store",
+    "status": "approved",
+    "date": "2023-08-08T20:45:00Z"
+  },
+  {
+    "id": 12,
+    "amount": 70.0,
+    "merchant": "Clothing Store",
+    "status": "approved",
+    "date": "2023-08-08T21:00:00Z"
+  },
+  {
+    "id": 13,
+    "amount": 90.0,
+    "merchant": "Electronics Store",
+    "status": "approved",
+    "date": "2023-08-08T22:15:00Z"
+  },
+  {
+    "id": 14,
+    "amount": 120.0,
+    "merchant": "Restaurant",
+    "status": "refused",
+    "date": "2023-08-08T23:30:00Z"
+  },
+  {
+    "id": 15,
+    "amount": 25.0,
+    "merchant": "Gas Station",
+    "status": "approved",
+    "date": "2023-08-09T10:45:00Z"
+  },
+  {
+    "id": 16,
+    "amount": 60.0,
+    "merchant": "Pharmacy",
+    "status": "approved",
+    "date": "2023-08-09T11:00:00Z"
+  },
+  {
+    "id": 17,
+    "amount": 55.0,
+    "merchant": "Coffee Shop",
+    "status": "approved",
+    "date": "2023-08-09T12:15:00Z"
+  },
+  {
+    "id": 18,
+    "amount": 150.0,
+    "merchant": "Home Improvement Store",
+    "status": "approved",
+    "date": "2023-08-09T13:30:00Z"
+  },
+  {
+    "id": 19,
+    "amount": 200.0,
+    "merchant": "Online Retailer",
+    "status": "refused",
+    "date": "2023-08-09T14:45:00Z"
+  },
+  {
+    "id": 20,
+    "amount": 70.0,
+    "merchant": "Grocery Store",
+    "status": "approved",
+    "date": "2023-08-09T15:00:00Z"
+  },
+  {
+    "id": 21,
+    "amount": 65.0,
+    "merchant": "Electronics Store",
+    "status": "approved",
+    "date": "2023-08-09T16:15:00Z"
+  },
+  {
+    "id": 22,
+    "amount": 130.0,
+    "merchant": "Restaurant",
+    "status": "approved",
+    "date": "2023-08-09T17:30:00Z"
+  },
+  {
+    "id": 23,
+    "amount": 35.0,
+    "merchant": "Coffee Shop",
+    "status": "approved",
+    "date": "2023-08-09T18:45:00Z"
+  },
+  {
+    "id": 24,
+    "amount": 90.0,
+    "merchant": "Clothing Store",
+    "status": "approved",
+    "date": "2023-08-09T19:00:00Z"
+  },
+  {
+    "id": 25,
+    "amount": 80.0,
+    "merchant": "Pharmacy",
+    "status": "approved",
+    "date": "2023-08-09T20:15:00Z"
+  },
+  {
+    "id": 26,
+    "amount": 150.0,
+    "merchant": "Home Improvement Store",
+    "status": "refused",
+    "date": "2023-08-09T21:30:00Z"
+  }
+]
